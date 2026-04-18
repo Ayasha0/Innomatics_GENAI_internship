@@ -163,17 +163,13 @@ Each run shows:
 
 ### 1. Clone repo
 
-```bash
+### 2. Install dependencies
 
-git clone https://github.com/YOUR_USERNAME/DocChat_RAG_system
-cd DocChat_RAG_system
-2. Install dependencies
+```text
 pip install -r requirements.txt
-3. Setup environment variables
-
 ```
 
----
+### 3. Setup environment variables
 
 Create .env:
 
@@ -186,7 +182,7 @@ LANGCHAIN_PROJECT=AI_resume_screening_system
 
 ```
 
-4. Run app
+### 4. Run app
 
 ```text
 
